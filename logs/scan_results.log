@@ -1,0 +1,1 @@
+2025-07-31 18:35:59,436 - SCAN_RESULT: {'ip': '192.168.1.1', 'open_ports': [{'port': 80, 'service': 'HTTP'}, {'port': 443, 'service': 'HTTPS'}]}

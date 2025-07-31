@@ -1,0 +1,8 @@
+2025-07-31 18:35:59,436 - WARNING - THREAT_ALERT: {'type': 'SUSPICIOUS_PORT', 'severity': 'HIGH', 'port': 135, 'description': 'Porta RPC aberta'}
+2025-07-31 19:49:19,607 - WARNING - THREAT_ALERT: {'type': 'SUSPICIOUS_PORT', 'severity': 'HIGH', 'port': 135, 'service': 'RPC', 'description': 'RPC - Frequentemente explorado', 'timestamp': '2025-07-31T19:49:19.604849'}
+2025-07-31 19:49:19,608 - WARNING - THREAT_ALERT: {'type': 'HIGH_RISK_SERVICE', 'severity': 'HIGH', 'port': 135, 'service': 'RPC', 'description': 'Serviço frequentemente explorado - ALTO', 'timestamp': '2025-07-31T19:49:19.604849'}
+2025-07-31 19:49:19,608 - WARNING - THREAT_ALERT: {'type': 'SUSPICIOUS_PORT', 'severity': 'HIGH', 'port': 135, 'service': 'RPC', 'description': 'RPC - Frequentemente explorado', 'timestamp': '2025-07-31T19:49:19.604849'}
+2025-07-31 19:49:19,609 - WARNING - THREAT_ALERT: {'type': 'SUSPICIOUS_PORT', 'severity': 'HIGH', 'port': 139, 'service': 'NetBIOS', 'description': 'NetBIOS - Vulnerável a ataques SMB', 'timestamp': '2025-07-31T19:49:19.604849'}
+2025-07-31 19:49:19,609 - WARNING - THREAT_ALERT: {'type': 'HIGH_RISK_SERVICE', 'severity': 'HIGH', 'port': 135, 'service': 'RPC', 'description': 'Serviço frequentemente explorado - ALTO', 'timestamp': '2025-07-31T19:49:19.604849'}
+2025-07-31 19:49:19,609 - WARNING - THREAT_ALERT: {'type': 'HIGH_RISK_SERVICE', 'severity': 'HIGH', 'port': 139, 'service': 'NetBIOS', 'description': 'Vulnerável a ataques de rede - ALTO', 'timestamp': '2025-07-31T19:49:19.604849'}
+2025-07-31 19:49:19,609 - WARNING - THREAT_ALERT: {'type': 'HIGH_RISK_SERVICE', 'severity': 'HIGH', 'port': 111, 'service': 'RPC', 'description': 'Serviço frequentemente explorado - ALTO', 'timestamp': '2025-07-31T19:49:19.604849'}

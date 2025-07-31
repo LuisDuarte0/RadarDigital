@@ -1,0 +1,6 @@
+2025-07-31 18:35:59,436 - main_logger - INFO - Iniciando teste do logger.
+2025-07-31 18:35:59,436 - main_logger - WARNING - Esta é uma mensagem de aviso.
+2025-07-31 18:35:59,436 - main_logger - ERROR - Este é um erro simulado.
+2025-07-31 18:35:59,436 - main_logger - INFO - Teste do logger concluído.
+2025-07-31 19:48:41,568 - main_logger - INFO - Iniciando varredura da rede: 192.168.15.0/24
+2025-07-31 19:49:19,599 - main_logger - INFO - Varredura conclu�da em 38.03s. 8 hosts encontrados.
